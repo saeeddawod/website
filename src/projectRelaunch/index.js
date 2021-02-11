@@ -147,9 +147,11 @@ export const ProjectRelaunch = () => (
 									New tokenomics & business model
 								</TertiaryHeading>
 								<p>
-									Non Fungible tokenomics & business model based on a decentralized music liquidity pool.
+									Non Fungible tokenomics & 
+									business model based on a decentralized music liquidity pool.
 									Artists provide music,
-									fans provide liquidity to improve each song's capacity to generate royalties and provide $MUSICs to the PPPs in the long term.
+									fans provide liquidity to improve each song's 
+									capacity to generate royalties and provide $MUSIC to the PPPs in the long term.
 								</p>
 								<SecondaryButton
 									href="https://t.me/MusicoinNFT"
